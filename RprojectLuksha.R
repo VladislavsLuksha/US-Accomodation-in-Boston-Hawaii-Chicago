@@ -8,7 +8,7 @@ library(DT) #for interactive tables
 library(tidyr)
 
 #upload the data frame
-places <- read.csv2("/Users/vladislavluksha/Downloads/AB_US_2021.csv")
+places <- read.csv2("https://raw.githubusercontent.com/VladislavsLuksha/US-Accomodation-in-Boston-Hawaii-Chicago/main/AB_US_2021.csv")
 
 ###############################################################################
 ###############################################################################
