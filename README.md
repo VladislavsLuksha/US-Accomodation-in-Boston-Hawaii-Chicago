@@ -8,7 +8,7 @@ Since the code is compact, I decided to combine the UI and server parts. Neverth
 
 # Recommendations for users
 
-On the first tab (input and maps)the user selects a city (one of three: Chicago, Hawaii or Boston), as well as the price range of accommodation per night. The user can immediately evaluate the result of his\her choice on the interactive map, which is located on the same tab and takes into account the data of the user choice.
+On the first tab (input and maps) the user selects an option (one of three: Chicago, Hawaii or Boston), as well as the price range of accommodation per night. The user can immediately evaluate the result of his/her choice on the interactive map, which is located on the same tab and takes into account the data of the user choice.
 On the second tab(plot), the user can select a color for the chart, as well as select a checkbox for the chart to include a linear trend.
 On the third tab (table), the user can download the table in .csv format by clicking on the "Download" button.The same tab displays a table with all filtering results.
 
@@ -19,5 +19,7 @@ This application can be extended to other cities in the United States, since the
 
 # Student Information:
 Uladzislau Luksha
+
 Uladzislau.Luksha@studenti.unimi.it
+
 Matriculation Number: 964000
